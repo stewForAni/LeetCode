@@ -48,3 +48,9 @@ class TestgetKthMagicNumber2 {
 ```
 ### 时间复杂度：O(k)
 
+
+
+
+
+
+
